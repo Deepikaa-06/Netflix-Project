@@ -45,4 +45,4 @@ Genre-wise analysis
 
 ## 📊 Dashboard Preview
 
-![Dashboard](netflixdashboard.png)
+![Dashboard](netflix dashboard.png)
