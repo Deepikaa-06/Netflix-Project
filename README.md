@@ -42,3 +42,7 @@ Count plots for ratings
 Trend analysis by release year
 Genre-wise analysis
 
+
+## 📊 Dashboard Preview
+
+![Dashboard](netflixdashboard.png)
