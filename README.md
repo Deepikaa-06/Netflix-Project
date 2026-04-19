@@ -43,6 +43,4 @@ Trend analysis by release year
 Genre-wise analysis
 
 
-## 📊 Dashboard Preview
 
-![Dashboard](netflix dashboard.png)
